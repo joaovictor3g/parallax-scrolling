@@ -1,6 +1,8 @@
 # Project
 This project is a parallax scrolling, inspired by [this channel](youtube.com/watch?v=1wfeqDyMUx4&t=906s&ab_channel=OnlineTutorials). In original project, it uses only html, css and javascript, but I've made a little different way to reach at the same result as the video. 
 
+<img src="./gifs/parallax-demo.gif" alt="parallax demo">
+
 # Techs (that I used)
 - [React](https://pt-br.reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
